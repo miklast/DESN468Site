@@ -11,10 +11,12 @@ body {
     padding: 0 1rem;
   }
   
+  
   .header {
     background-color: #7CB4B8;
     border: 0.5rem black solid;
-      text-align: center;
+    text-align: center;
+    font-family: 'Tanker-Regular';
   }
   
   .navbar {

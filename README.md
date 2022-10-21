@@ -8,5 +8,6 @@ This is a portfolio website created in DESN 468
 [CSS layout challenges on Linkedin Learning](https://www.linkedin.com/learning/css-layout-code-challenges/)
 * TODO: Find a codepen pen you can apply to the project
 * Multitude of layout ideas from Karan Pratap Singh's [portfolio website](https://www.karanpratapsingh.com/)
+* CSS ideas taken from [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/#howtostyletheherosection)
 * (future) Icons from [skill-icons](https://github.com/tandpfun/skill-icons)
 
